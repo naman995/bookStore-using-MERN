@@ -1,7 +1,7 @@
 
 const DeleteBook = () => {
   return (
-    <div>DeleteBook</div>
+    <div>DeleteBookk</div>
   )
 }
 
